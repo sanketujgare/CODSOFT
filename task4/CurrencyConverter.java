@@ -10,7 +10,7 @@ import org.json.simple.parser.ParseException;
 
 public class CurrencyConverter {
 
-    private static final String API_KEY = "445ff0171fb668ce99a4f022";
+    private static final String API_KEY = "your key";
 //    private static final String API_URL = "https://api.currency.com/exchangerates/latest";
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/"+API_KEY+"/latest/";
     
